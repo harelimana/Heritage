@@ -1,0 +1,17 @@
+{
+    "name": "root/heritage",
+    "authors": [
+        {
+            "name": "Alex Harelimana",
+            "email": "alexandre.harelimana@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr4":{
+            "Axxa\\":"./src"
+        }
+    },
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    }
+}
